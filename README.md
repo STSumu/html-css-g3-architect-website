@@ -36,7 +36,7 @@ This was a guided practice project where I learned:
   
 ## Live Page Link
 
-Check the live page : https://stsumu.github.io/g3-architect-website/
+Check the live page : https://stsumu.github.io/html-css-g3-architect-website/
 
 ## Note
 
